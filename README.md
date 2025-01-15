@@ -1,4 +1,4 @@
-In vitro PDCM Minimal Information Standard - version 1.0
+## In vitro PDCM Minimal Information Standard
 
 **Contact:** [Zinaida Perova](mailto:zina@ebi.ac.uk), Project Lead, [CancerModels.Org](https://www.cancermodels.org/)
 
